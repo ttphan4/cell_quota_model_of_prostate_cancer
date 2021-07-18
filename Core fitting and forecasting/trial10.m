@@ -6,7 +6,7 @@ every patient in par_all.mat.
 
 Parameter estimation can be done for one_pop,two_pop,portz,and hirata models.
 
-Created by Javier Baez Sep 2016
+Created by Javier Baez Sep 2016. Modified by Tin Phan 2018.
 %}
 for yy = [2]
     % model = 'one_pop';                         % Choose which model to run fittings
